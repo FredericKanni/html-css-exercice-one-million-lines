@@ -1,0 +1,7 @@
+
+#home{
+    background-image: url('../images/hero-image.jpg');
+    height: 50vh;
+    width: 100%;
+    background-position: 25% 0%;
+}
